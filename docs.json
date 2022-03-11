@@ -1,0 +1,10 @@
+{
+    "function | keyword | anything": { 
+        "description": "A description",
+        "keywords":["keyword linked 1", "keyword linked 2", "keyword linked 3"]
+    },
+    "getElementById": {
+        "description":"getElementById is a simple function that takes an id as argument and return an HTML element",
+        "keywords":["element","find","get","ID","id","HTMLelement","function"]
+    }
+} 
